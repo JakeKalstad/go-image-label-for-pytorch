@@ -1,0 +1,9 @@
+{
+    "dataFile": "birds.json",
+    "imagePrefix": "images",
+    "defaultPrefix": "pr_set",
+    "secondaryPrefix": "pr_eggset",
+    "secondaryPredicate": "egg",
+    "ignorePredicate": "map",
+    "outfile": "classes"
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Parrot",
+        "images": [
+            "parrot_image_1.jpg",
+            "parrot_image_2.jpg",
+            "parrot_image_3.jpg"
+        ]
+    },
+    {
+        "name": "Cockatoo",
+        "images": [
+            "cockatoo_image_1.jpg",
+            "cockatoo_image_2.jpg",
+            "cockatoo_image_3.jpg"
+        ]
+    }
+]
